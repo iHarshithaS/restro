@@ -1,7 +1,7 @@
-iHarshithaS 
-Happy Monday
-No Monday Blues 
-YESSSS!
+# Restaurant Menu Application
 
-# restro
-Restaurant Website
+Food Menu with Details
+
+This is tech food company which displays food items with price
+
+edited 
